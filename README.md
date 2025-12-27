@@ -24,6 +24,7 @@ To analyze annual e-commerce sales data using an interactive dashboard in order 
 
 ## DASHBOARD
 <img width="1473" height="794" alt="DASHBOARD" src="https://github.com/user-attachments/assets/4427499c-fe95-4e81-a16e-71e2a3f23c23" />
+
 ## Project Insight 
 - Sales peak during festive and seasonal months, showing strong demand trends
 - Women generate a higher share of total orders than men

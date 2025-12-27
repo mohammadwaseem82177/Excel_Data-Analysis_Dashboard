@@ -23,3 +23,6 @@ To analyze annual e-commerce sales data using an interactive dashboard in order 
 
 -Calculate the percentage of total orders successfully delivered.
 
+- Dashboard Interaction <a href="https://github.com/mohammadwaseem82177/Excel_Data-Analysis_Dashboard/blob/main/Store%20Data%20Analysis.pdf">View Dashboard</a>
+
+

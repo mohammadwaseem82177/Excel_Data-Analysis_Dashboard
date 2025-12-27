@@ -10,10 +10,16 @@ To analyze annual e-commerce sales data using an interactive dashboard in order 
 -Identify the month with the highest sales and order volume.
 
 -Analyze purchasing behavior by gender to determine whether men or women contributed more to sales.
+
 -Examine the different order statuses recorded during the year 2022.
+
 -Identify the top 10 states contributing to total sales.
+
 -Analyze the relationship between age group and gender based on the number of orders.
+
 -Determine which sales channel contributes the highest share of total sales.
+
 -Identify the highest-selling product category.
+
 -Calculate the percentage of total orders successfully delivered.
 

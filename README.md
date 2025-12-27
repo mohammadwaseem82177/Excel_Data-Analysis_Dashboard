@@ -21,3 +21,6 @@ To analyze annual e-commerce sales data using an interactive dashboard in order 
 - Ensured data consistency and accuracy with respect to data types, formats, and value standards
 - Created pivot tables aligned with the defined business questions
 - Consolidated all pivot tables into a single interactive dashboard and applied slicers to enable dynamic filtering.
+
+## DASHBOARD
+<img width="1473" height="794" alt="DASHBOARD" src="https://github.com/user-attachments/assets/4427499c-fe95-4e81-a16e-71e2a3f23c23" />

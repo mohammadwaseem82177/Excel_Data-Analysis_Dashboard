@@ -6,7 +6,9 @@ To analyze annual e-commerce sales data using an interactive dashboard in order 
 - <a href="https://github.com/mohammadwaseem82177/Excel_Data-Analysis_Dashboard/blob/main/MD%20Store%20Data%20Analysis.xlsx">Dataset</a>
 ## Questions (KPIs)
 -Compare sales and order volumes using a single consolidated chart.
+
 -Identify the month with the highest sales and order volume.
+
 -Analyze purchasing behavior by gender to determine whether men or women contributed more to sales.
 -Examine the different order statuses recorded during the year 2022.
 -Identify the top 10 states contributing to total sales.

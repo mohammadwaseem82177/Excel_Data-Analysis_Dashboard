@@ -24,3 +24,14 @@ To analyze annual e-commerce sales data using an interactive dashboard in order 
 
 ## DASHBOARD
 <img width="1473" height="794" alt="DASHBOARD" src="https://github.com/user-attachments/assets/4427499c-fe95-4e81-a16e-71e2a3f23c23" />
+## Project Insight 
+- Sales peak during festive and seasonal months, showing strong demand trends
+- Women generate a higher share of total orders than men
+- Most orders are successfully delivered, indicating efficient operations
+- A few key states contribute the majority of total sales
+- Customers aged 30–49 place the highest number of orders
+- Online marketplaces are the top-performing sales channels
+- Select product categories drive most of the revenue
+
+## Final Conclusion
+- To enhance the sales performance of Vrinda Store, a targeted marketing strategy should be implemented focusing on women aged 30–49 years from Maharashtra, Karnataka, and Uttar Pradesh. This customer segment represents a significant share of purchasing power, particularly for household and lifestyle products. The strategy should leverage data-driven digital marketing campaigns and personalized promotional offers to effectively engage this audience and drive higher conversion rates.
